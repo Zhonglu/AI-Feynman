@@ -17,7 +17,7 @@ Using WSL Ubuntu 20.04
 Additional install steps required:
 
     sudo apt-get install python-scipy
-    
+
 
     import aifeynman
 
