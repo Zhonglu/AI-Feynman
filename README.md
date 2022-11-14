@@ -13,6 +13,12 @@ Note that for now, AI Feynman is supported only for Linux and Mac environments.
 ## First example
 Move into a clean directory and run the following Python commands:
 
+Using WSL Ubuntu 20.04
+Additional install steps required:
+
+    sudo apt-get install python-scipy
+    
+
     import aifeynman
 
     aifeynman.get_demos("example_data") # Download examples from server
